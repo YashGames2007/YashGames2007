@@ -1,6 +1,7 @@
 [![MasterHead](https://www.mygo.ge/uploads/blog/1584023795.jpg)](https://yashgames2007-dev-portfolio-web.netlify.app/)
 <h1 align="center">Hi 👋, I'm Yash Bhavsar</h1>
 <h3 align="center">A passionate game/software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/YashGames2007/YashGames2007/blob/Legend/1654506453495.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgames2007&label=Profile%20views&color=0e75b6&style=flat" alt="yashgames2007" /> </p>
 
