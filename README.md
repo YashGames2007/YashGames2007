@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgames2007&label=Profile%20views&color=0e75b6&style=flat" alt="yashgames2007" /> </p>
 
-- 🔭 I’m currently working on [Notability](https://github.com/TheAnand2303/Notability)
+- 🔭 I’m currently working on NPC Interaction System.
 
-- 🌱 I’m currently learning **Kotlin, Android Basics with Compose**
+- 🌱 I’m currently learning **Game Development with Unity**.
 
 - 👨‍💻 All of my projects are available at [https://yashgames2007-dev-portfolio-web.netlify.app/](https://yashgames2007-dev-portfolio-web.netlify.app/)
 
-- 💬 Ask me about **Android/Game Development**
+- 💬 Ask me about **Web/Game Development**
 
 - 📫 How to reach me **yashbhavsar.dev2007@gmail.com**
 
