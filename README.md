@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="42"> Hey there! I'm **Yash Bhavsar**
+# <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="42"> Hey there! Everyone
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1f0533,60:0d1117,200:0d0d1a&height=220&section=header&text=YASH%20BHAVSAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Game%20Dev%20·%20AI%20Engineer%20·%20XR%20Builder%20·%20India&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- 🎮 ADD MARIO / PIXEL ART HERO GIF HERE — recommended size: width="100%" or centered ~500px -->
